@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": "0",
+      "produto": "Jogo 1",
+      "descricao": "Super game digital",
+      "foto": "jogo1.png",
+      "preco": 250
+    },
+    {
+      "id": "1",
+      "produto": "Jogo 3",
+      "descricao": "Super game digital",
+      "foto": "jogo3.png",
+      "preco": 655
+    },
+    {
+      "id": "2",
+      "produto": "Jogo 2",
+      "descricao": "Super game digital",
+      "foto": "jogo2.png",
+      "preco": 345
+    },
+    {
+      "id": 3,
+      "produto": "Jogo 4",
+      "descricao": "Super game digital",
+      "foto": "jogo4.png",
+      "preco": 199
+    },
+    {
+      "id": 4,
+      "produto": "Jogo 5",
+      "descricao": "Super game digital",
+      "foto": "jogo5.png",
+      "preco": 465
+    }
+  ]
+}

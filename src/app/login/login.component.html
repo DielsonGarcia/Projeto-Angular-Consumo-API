@@ -1,0 +1,15 @@
+<main>
+  <section id="section-login">
+    <h2>Login</h2>
+    <form>
+      <div>
+        <label for="usuario">Usuário</label>
+        <input name="usuario" required type="text" [(ngModel)]="usuario" placeholder="Nome de login">
+        <br>
+        <label for="password">Senha</label>
+        <input name="password" type="password" [(ngModel)]="senha" placeholder="Senha">
+      </div>
+      <button type="submit" (click)="fazerLogin()">Entrar</button>
+    </form>
+  </section>
+</main>
